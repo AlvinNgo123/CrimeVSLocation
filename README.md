@@ -15,8 +15,8 @@ Press on + [FinalProject.ipynb](https://github.com/AlvinNgo123/CrimeVSLocation/b
 2. **Clone repository:**
 
   ```bash
-  git clone https://github.com/AlvinNgo123/GradeOrNoGrade.git
-  cd GradeOrNoGrade
+  git clone https://github.com/AlvinNgo123/CrimeVSLocation.git
+  cd CrimeVSLocation
   ```
 
 3. **Open Anaconda Application, Press on Jupyter Notebook, and Open "FinalProject.ipynb" through the Jupyter Notebook:** 
